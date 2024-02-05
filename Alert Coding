@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+    Contoh Program JavaScript
+</title>
+<head>
+<body>
+    <script>
+        alert("Hallo")
+        alert("Jangan Lupa Minum Air Putih Yaaaaaa!!!")
+        alert("Hheeeeeeeeeee")
+        alert("Ambatukammmmmmmmmmmmm!!!!!!!")
+    </script>
+</body>
+</html>
